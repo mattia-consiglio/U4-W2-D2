@@ -4,7 +4,7 @@ import org.slf4j.LoggerFactory;
 import java.util.*;
 
 public class Exercise2 {
-    public static Logger logger = LoggerFactory.getLogger(Main.class.getName());
+    public static Logger logger = LoggerFactory.getLogger(Exercise1.class.getName());
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
